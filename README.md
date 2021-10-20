@@ -15,22 +15,22 @@
 #
 
 <h1> <center> Get Start With :</h1>
-<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_work.png">
+<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_work.PNG">
 
 #
 
 <h1> <center> Play Via Text :</h1>
-<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_text_R.png">
+<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_text_R.PNG">
 
 #
 
 <h1> <center> Play Via PDF :</h1>
-<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_Read_Pdf.png">
+<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_read_pdf.PNG">
 
 #
 
 <h1> <center> play Control :</h1>
-<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_Play.png">
+<img src="https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/page_play.PNG">
 
 * here user can put required output to application to read and forword output . 
 
