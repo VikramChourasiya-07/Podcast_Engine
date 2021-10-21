@@ -6,9 +6,11 @@
 ~ Created by <b> "Cerbrenomous" </b>
 
 <br><b> A python application purely made for the people who like to get lost in harmony. </b>
-https://img.shields.io/github/issues/VikramChourasiya-07/Podcast_Engine?style=for-the-badge
-https://img.shields.io/github/stars/VikramChourasiya-07/Podcast_Engine
-https://img.shields.io/github/license/VikramChourasiya-07/Podcast_Engine?style=for-the-badge
+[![GitHub issues](https://img.shields.io/github/issues/VikramChourasiya-07/Podcast_Engine)](https://github.com/VikramChourasiya-07/Podcast_Engine/issues)
+[![GitHub forks](https://img.shields.io/github/forks/VikramChourasiya-07/Podcast_Engine)](https://github.com/VikramChourasiya-07/Podcast_Engine/network)
+[![GitHub stars](https://img.shields.io/github/stars/VikramChourasiya-07/Podcast_Engine)](https://github.com/VikramChourasiya-07/Podcast_Engine/stargazers)
+[![GitHub license](https://img.shields.io/github/license/VikramChourasiya-07/Podcast_Engine)](https://github.com/VikramChourasiya-07/Podcast_Engine/blob/main/LICENSE)
+
 
 #
 <br>
