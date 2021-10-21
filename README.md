@@ -6,6 +6,9 @@
 ~ Created by <b> "Cerbrenomous" </b>
 
 <br><b> A python application purely made for the people who like to get lost in harmony. </b>
+https://img.shields.io/github/issues/VikramChourasiya-07/Podcast_Engine?style=for-the-badge
+https://img.shields.io/github/stars/VikramChourasiya-07/Podcast_Engine
+https://img.shields.io/github/license/VikramChourasiya-07/Podcast_Engine?style=for-the-badge
 
 #
 <br>
